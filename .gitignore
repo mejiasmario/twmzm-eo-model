@@ -6,3 +6,6 @@ __pycache__/
 # OS / editor noise
 Thumbs.db
 .DS_Store
+
+# Claude Code local (machine-specific) settings
+.claude/settings.local.json
