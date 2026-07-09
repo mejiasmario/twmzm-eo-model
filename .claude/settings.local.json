@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(python \"C:\\\\Users\\\\Mario Mejias\\\\dev\\\\eo_model_claude\\\\run_example.py\")"
+    ]
+  }
+}
